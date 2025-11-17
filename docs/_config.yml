@@ -1,14 +1,12 @@
 title: シャドバトラッカー
 description: トークンカウント・戦績記録・メタゲームなどの機能を通じて、シャドバWBユーザーの勝率UPを助ける
-# theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
 
-remote_theme: CloudCannon/hydra-jekyll-template
+remote_theme: patdryburgh/hitchens
 
 # SEO設定
 author:
@@ -17,3 +15,7 @@ author:
 # ベースURL設定
 baseurl: ""
 url: "https://ikkokojima.github.io/shadowverse_tool_release"
+
+# テーマ設定
+hide_credits: false
+hide_search: false
