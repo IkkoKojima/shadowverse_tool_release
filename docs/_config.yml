@@ -4,18 +4,5 @@ description: トークンカウント・戦績記録・メタゲームなどの�
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-seo-tag
 
-remote_theme: patdryburgh/hitchens
-
-# SEO設定
-author:
-  name: IkkoKojima
-  
-# ベースURL設定
-baseurl: ""
-url: "https://ikkokojima.github.io/shadowverse_tool_release"
-
-# テーマ設定
-hide_credits: false
-hide_search: false
+remote_theme: https://github.com/PQuod/simply-cyan-theme
