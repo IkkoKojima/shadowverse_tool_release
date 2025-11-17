@@ -6,7 +6,7 @@ Github Pages テスト
 
 # 機能
 ## トークンカウント
-![トークンカウントのスクショ](./token_count1.gif)
+![トークンカウントのスクショ](./images/token_count1.gif)
 
 ## 戦績記録
 戦績記録のスクショ
