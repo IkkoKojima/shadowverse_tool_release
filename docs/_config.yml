@@ -1,11 +1,3 @@
 title: シャドバトラッカー
-description: トークンカウント・戦績記録・メタゲームなどの機能を通じて、シャドバWBユーザーの勝率UPを助ける
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-
-remote_theme: PQuod/simply-cyan-theme
-
-show_dark_mode: true
-paginate: 0
+description: トークンカウント・戦績記録・メタゲームなどの機能を通じて、シャドバWBユーザーの勝率UPを助けるツール
+theme: jekyll-theme-architect
