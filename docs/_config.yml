@@ -5,4 +5,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
-remote_theme: https://github.com/PQuod/simply-cyan-theme
+remote_theme: PQuod/simply-cyan-theme
+
+show_dark_mode: true
+paginate: 0
